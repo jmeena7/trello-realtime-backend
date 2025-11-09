@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 \# Trello Realtime Backend
 
 
@@ -32,3 +33,6 @@ git clone <your-repo-url>
 
 
 
+=======
+# trello-realtime-backend
+>>>>>>> 0cfc0d9a95ba50facd3b836e331767205c51b9b8
